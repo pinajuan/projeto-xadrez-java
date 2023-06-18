@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Pina
- *
- */
-module ProjetoXadrez {
-}
